@@ -4,7 +4,7 @@
   "description": "element theme plugin for vite",
   "license": "MIT",
   "author": "lufangyong",
-  "homepage": "",
+  "homepage": "https://github.com/lufangyong/vite-plugin-theme-element-plus",
   "bugs": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
